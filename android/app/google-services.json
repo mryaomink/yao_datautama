@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "899595695757",
+    "project_id": "datautamayao",
+    "storage_bucket": "datautamayao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899595695757:android:26d8b7e3632cb69e5b54c4",
+        "android_client_info": {
+          "package_name": "com.example.yao_datautama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899595695757-5ugrf2i2uqd68ufoqdm221kvq648hlrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2PWn-kPZCDShWnKvqbbF70WklpKD6v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899595695757-5ugrf2i2uqd68ufoqdm221kvq648hlrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899595695757:android:fe1aa307624b36a15b54c4",
+        "android_client_info": {
+          "package_name": "com.yaomink.data_utama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899595695757-5ugrf2i2uqd68ufoqdm221kvq648hlrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2PWn-kPZCDShWnKvqbbF70WklpKD6v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899595695757-5ugrf2i2uqd68ufoqdm221kvq648hlrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
